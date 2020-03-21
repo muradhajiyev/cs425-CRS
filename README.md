@@ -1,6 +1,7 @@
 ### Course Registration System - University Course Project (CS425)
 
 **HEROKU**: https://cs425-final-project.herokuapp.com/
+
 **GITHUB**: https://github.com/muradhajiyev/cs425-CRS
 
 **<u>Credentials</u>**: 
